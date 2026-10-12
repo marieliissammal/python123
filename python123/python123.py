@@ -1,2 +1,5 @@
 print("Hello World")
-print("see on minu programm")
+print("see on minu programm.", end="")
+print("Mul on", 3, "kassi", end="-")
+print("Aasta on", 2026, end="\n")
+print("2026", "10", "01", sep="/")
